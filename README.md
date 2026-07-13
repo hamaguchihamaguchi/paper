@@ -1,7 +1,7 @@
 # 論文
 ## グループ推薦
 ### 実グループ
- **<details><DisRec:Disentangled Modeling of Preferences and Social Influence for Group Recommendation(2025)**</summary><div>  
+ **<details><summary><DisRec:Disentangled Modeling of Preferences and Social Influence for Group Recommendation(2025)**</summary><div>   
   グループの嗜好とメンバーの社会的影響力を分離して学習．また，社会的影響力を考慮した疑似グループ生成によりグループ推薦のデータスパース問題に対処することにより実グループデータセットでの精度向上をはかる手法
 </details>
 
