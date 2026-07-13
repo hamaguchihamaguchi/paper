@@ -1,12 +1,12 @@
 # 論文
 ## グループ推薦
 ### 実グループ
- **<details><Disentangled Modeling of Preferences and Social Influence for Group Recommendation(2025)**</summary><div>  
+ **<details><DisRec:Disentangled Modeling of Preferences and Social Influence for Group Recommendation(2025)**</summary><div>  
   グループの嗜好とメンバーの社会的影響力を分離して学習．また，社会的影響力を考慮した疑似グループ生成によりグループ推薦のデータスパース問題に対処することにより実グループデータセットでの精度向上をはかる手法
 </details>
 
 ### 人工グループ
-**<details><Ensuring Fairness in Group Recommendations by Rank-Sensitive Balancing of Relevance(2020)**</summary><div>  
+**<details><GFAR:Ensuring Fairness in Group Recommendations by Rank-Sensitive Balancing of Relevance(2020)**</summary><div>  
   個人推薦器で個人の嗜好を学習し，推薦リストを生成する際にグループ内の各メンバーの満足度を測定しながら1アイテムずつ逐次的に追加していくことで精度と公平性の改善をはかる手法
 </details>
 
