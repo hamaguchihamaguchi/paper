@@ -10,7 +10,7 @@
   個人推薦器で個人の嗜好を学習し，推薦リストを生成する際にグループ内の各メンバーの満足度を測定しながら1アイテムずつ逐次的に追加していくことで精度と公平性の改善をはかる手法
 </details>
 
-## 電気機器特論
+## 電気分野
  **<details><summary><Maglev Train Permanent Magnet/Electromagnetic Hybrid Suspension Technology Research(2024)**</summary><div>  
   従来の電磁石のみの浮上方式では温度が高く，エネルギー消費が大きかった．そこで，電磁石に永久磁石を混ぜたハイブリッド方式を提案．ラインテストやベンチテストなどを通してエネルギー消費が従来のモデルよりも改善，また，NdFeB永久磁石を採用することで製造技術やコスト面も考慮
 </details>
